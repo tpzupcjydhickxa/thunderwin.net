@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://thunderwin.net/</loc>
+    <lastmod>2025-12-11T23:15:22.974Z</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://thunderwin.net/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://thunderwin.net/"/>
+  </url>
+  <url>
+    <loc>https://thunderwin.net/terms/</loc>
+    <lastmod>2025-12-11T23:15:22.974Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://thunderwin.net/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://thunderwin.net/terms/"/>
+  </url>
+  <url>
+    <loc>https://thunderwin.net/slot/</loc>
+    <lastmod>2025-12-11T23:15:22.974Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://thunderwin.net/slot/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://thunderwin.net/slot/"/>
+  </url>
+  <url>
+    <loc>https://thunderwin.net/responsible/</loc>
+    <lastmod>2025-12-11T23:15:22.974Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://thunderwin.net/responsible/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://thunderwin.net/responsible/"/>
+  </url>
+  <url>
+    <loc>https://thunderwin.net/privacy/</loc>
+    <lastmod>2025-12-11T23:15:22.974Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://thunderwin.net/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://thunderwin.net/privacy/"/>
+  </url>
+  <url>
+    <loc>https://thunderwin.net/demo/</loc>
+    <lastmod>2025-12-11T23:15:22.974Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://thunderwin.net/demo/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://thunderwin.net/demo/"/>
+  </url>
+  <url>
+    <loc>https://thunderwin.net/cookie/</loc>
+    <lastmod>2025-12-11T23:15:22.974Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://thunderwin.net/cookie/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://thunderwin.net/cookie/"/>
+  </url>
+  <url>
+    <loc>https://thunderwin.net/about/</loc>
+    <lastmod>2025-12-11T23:15:22.974Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://thunderwin.net/about/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://thunderwin.net/about/"/>
+  </url>
+</urlset>

@@ -1,0 +1,19 @@
+{
+    "name": "Thunder Coins: Hold and Win \u2013 Oficjalny Przewodnik 2025 | Thunder Coins",
+    "short_name": "Thunder Coins: Hold and Win",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "Thunder Coins: Hold and Win \u2013 poznaj legaln\u0105 gr\u0119 w Polsce i odkryj jej funkcje | Thunder Coins automat zapewnia bezpieczn\u0105, dynamiczn\u0105 rozgrywk\u0119",
+    "icons": [
+        {
+            "src": "images/fav.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fav.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
